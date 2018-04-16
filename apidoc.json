@@ -1,0 +1,8 @@
+{
+  "name": "#chat",
+  "url": "/api",
+  "template": {
+    "withCompare": false,
+    "withGenerator": true
+  }
+}
